@@ -51,9 +51,6 @@ public class SimpleTests {
         assertTrue(true);
     }
 
-    @Test
-    void someTest9() {
-        assertTrue(true);
-    }
+
 }
 
